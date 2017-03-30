@@ -1,6 +1,6 @@
 ~ number: 14
 ~ title: Fractal Sound
-
+http://nifty.stanford.edu/2017/hug-fractal-sound/
 Introduction
 -----
 
